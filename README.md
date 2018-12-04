@@ -1,6 +1,6 @@
 # eslint-plugin-sql-injection
 
-ESLint plugin that checks for string concatenation in SQL queries. By default it looks for any function calls where the function name is `query`, or you can override that with the options. See the examples directory for valid and invalid samples for the rule.
+ESLint plugin that checks for string concatenation in SQL queries. By default it looks for any function calls where the function name is `query`, or you can override that with the options. See the [examples directory](https://github.com/gavinaiken/eslint-plugin-sql-injection/tree/master/test/examples) for valid and invalid samples for the rule.
 
 # Installation
 
