@@ -11,7 +11,7 @@
     "mocha": "^5.2.0"
   },
   "name": "eslint-plugin-sql-injection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint plugin that checks for string concatenation in SQL queries",
   "main": "index.js",
   "engines": {
